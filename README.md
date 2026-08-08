@@ -14,11 +14,6 @@ The goal of this project was to design a real, spec-compliant CubeSat structure 
 - **Mounting deck:** internal plate offset from the base, sized to clear the rail posts, with 4x M3 clearance holes (3.2 mm) near the corners for payload mounting
 - **Material:** 6061-T6 aluminum
 
-![Isometric view](images/isometric_render.png)
-![Section view](images/section_view.png)
-
-*(Section view shows the stepped transition from the thick rail posts to the thin wall panels — this geometry is flush and invisible from the outside, since the outer surface must stay smooth for the dispenser.)*
-
 ## Structural Analysis
 
 **Load case:** 10g quasi-static axial acceleration (98 m/s²), representing a typical launch load factor along the tube's long axis — the same direction the rails travel through the P-POD dispenser.
