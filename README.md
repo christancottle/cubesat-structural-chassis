@@ -14,7 +14,7 @@ The goal of this project was to design a real, spec-compliant CubeSat structure 
 - **Mounting deck:** internal plate offset from the base, sized to clear the rail posts, with 4x M3 clearance holes (3.2 mm) near the corners for payload mounting
 - **Material:** 6061-T6 aluminum
 
-![Isometric View]()
+![Isometric View](<img width="881" height="798" alt="Isometric View" src="https://github.com/user-attachments/assets/1324f530-0715-4ff2-aa84-ad3d4a491275" />)
 
 ## Structural Analysis
 
